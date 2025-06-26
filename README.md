@@ -24,7 +24,7 @@
 
 ## 📸 Screenshots
 
-> _Coming soon — or add your own preview image like `preview.png`_
+> _Coming soon
 
 ---
 
