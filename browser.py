@@ -1,17 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Sbrows — a small but polished PyQt6 web browser.
-
-Run:
-    pip install PyQt6 PyQt6-WebEngine
-    python sbrows.py
-
-State files (history.json, bookmarks.json, session.json) are written next to
-this script. No external icon/image assets are required — everything falls back
-to Unicode glyphs, so it runs out of the box.
-"""
-
 import os
 os.environ.setdefault("QTWEBENGINE_CHROMIUM_FLAGS", "--enable-media-stream")
 
